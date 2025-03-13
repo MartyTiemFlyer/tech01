@@ -1,0 +1,6 @@
+# config/config.toml
+
+[sms_service]
+url = "http://localhost:4010"
+username = "artem"
+password = "admin"
